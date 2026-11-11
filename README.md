@@ -26,14 +26,6 @@ Engenheiro de software full-stack, Software Developer III na Decolar (Grupo Desp
 
 </div>
 
-## Projetos em destaque
-
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [sentila](https://github.com/RonaldoLPFilho/sentila) | Scanner automatizado que procura malware e código malicioso em software. | Python |
-| LeFit | E-commerce de marmitas fit, em produção: loja, pagamentos, painel administrativo e observabilidade. Código privado. | Spring Boot, React |
-| ESO4-F1 | Projeto em três serviços: [API gateway](https://github.com/RonaldoLPFilho/ESO4-F1-GatewayAPI), [SPA](https://github.com/RonaldoLPFilho/ESO4-F1-SPA) e [API de visão computacional](https://github.com/RonaldoLPFilho/ESO4-F1-PythonVisionAPI). | Java, TypeScript, Python |
-
 ## Idiomas
 
 Português (nativo) · Inglês (avançado) · Espanhol (avançado)
